@@ -1,8 +1,6 @@
 # Face Recogniton GUI-APP
 
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.youtube.com/channel/UCKvgGs-ALhvOq9u95PHXHNw)
-
 # Live Demo
 https://www.youtube.com/watch?v=r7wl89k0CH8
 
