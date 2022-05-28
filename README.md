@@ -4,10 +4,7 @@
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://www.youtube.com/channel/UCKvgGs-ALhvOq9u95PHXHNw)
 
 # Live Demo
-```html
-https://www.youtube.com/embed/3EBdT-0gvu8
-
-```
+https://www.youtube.com/watch?v=r7wl89k0CH8
 
 
 # A very Simple Gui app for Face Detection 
@@ -16,10 +13,7 @@ https://www.youtube.com/embed/3EBdT-0gvu8
   - Build Face Classifier 
   - Detecte the face
 
-#  New Features!
 
-  - Add Emotion detection
-  - Fixed image loading in Linux 
   
   
 # Installation
